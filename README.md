@@ -1,3 +1,5 @@
+# NAME: T.KAVINAJAI
+# REGISTER NO: 212223100020
 # creating-a-backdoor-with-SET
 creating a backdoor with SET - Ethical Hacking Techniques course
 
@@ -56,6 +58,9 @@ Social Engineering attacks are the various cons used by the hackers to trick peo
 ```bash
 sudo setoolkit
 ```
+<img width="678" height="632" alt="image" src="https://github.com/user-attachments/assets/abd6185c-527c-4a5c-9593-e30f9c3f1b40" />
+
+
 **2. Navigate:**
 ```bash
 1) Social-Engineering Attacks  
@@ -66,16 +71,23 @@ sudo setoolkit
 **4. Choose:**
 ```bash
 2) Site Cloner
+
 ```
+<img width="817" height="283" alt="image" src="https://github.com/user-attachments/assets/6c927c06-3d44-4bfa-b4dd-f23c65c9d291" />
+
 **5. Enter the URL of the legitimate site ```(e.g., https://accounts.google.com)```**
+<img width="891" height="93" alt="image" src="https://github.com/user-attachments/assets/e281695c-36c9-41b9-9be1-38e9beb381b4" />
+
 
 **6. Send the generated link to the victim.**
+<img width="1278" height="842" alt="image" src="https://github.com/user-attachments/assets/d106abe3-58c9-4642-921f-dc6e519f198c" />
 
 **7. Once the victim logs in → their credentials are stored in:**
 ```bash
 /var/www/html/
 ```
-
+192.168.184.177
+<img width="1148" height="308" alt="image" src="https://github.com/user-attachments/assets/923cfb42-f48a-4d2c-8fce-025c473f4c10" />
 
 
 ## RESULT:
